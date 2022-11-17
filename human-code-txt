@@ -26,8 +26,5 @@ lista prodotti da valutare{
             ALTRIMENTI  cancella il prodotto dalla lista e analizza il prodotto successivo (n++1) ***
         SE prodotto 15 = false
             ALLORA compra gift card amazon (prodotto 16)
-segno_spunta_bianco
-occhi
-mani_alzate
 
 print auguri Silvia
